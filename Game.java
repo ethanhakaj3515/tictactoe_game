@@ -1,0 +1,3 @@
+start()
+playGame()
+switchPlayer()
