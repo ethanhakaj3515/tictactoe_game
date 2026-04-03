@@ -137,7 +137,7 @@ public class Game {
             displayBoard();
 
             if (checkWin(currentPlayer.getSymbol())) {
-                System.out.println("\n🎉  " + currentPlayer.getName() + " wins!\n");
+                System.out.println(currentPlayer.getName() + " wins!\n");
                 break;
             }
 
