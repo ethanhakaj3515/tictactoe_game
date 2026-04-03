@@ -1,3 +1,8 @@
+// Martins Madubuchi 101496696
+// Ethan Hakaj 101465282
+// Isaac Natera 101554429
+
+
 public class AI extends Player {
     private static final int BOARD_SIZE = 3;
     private static final char EMPTY = ' ';

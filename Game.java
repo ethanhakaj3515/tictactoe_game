@@ -1,4 +1,7 @@
 // Martins Madubuchi 101496696
+// Ethan Hakaj 101465282
+// Isaac Natera 101554429
+
 import java.util.Scanner;
 
 public class Game {
